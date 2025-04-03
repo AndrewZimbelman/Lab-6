@@ -1,0 +1,17 @@
+Version: 1.0
+ProjectId: 150c0126-8c43-47b0-9348-b5d9f195e0b1
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: ~/my-folder/ESS Labs/ESS Lab 6/Docs
